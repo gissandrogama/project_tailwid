@@ -12,6 +12,7 @@
 .btn-indigo {
   @apply bg-indigo-500 text-white;
 }
+
 .btn-indigo:hover {
   @apply bg-indigo-400;
 }
@@ -22,6 +23,7 @@
 .btn-gray {
   @apply bg-gray-400 text-gray-800;
 }
+
 .btn-gray:hover {
   @apply bg-gray-300;
 }
